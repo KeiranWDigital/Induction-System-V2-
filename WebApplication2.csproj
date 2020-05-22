@@ -163,6 +163,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Hello\Index.cshtml" />
     <Content Include="Views\Induction\NewInduction.cshtml" />
+    <Content Include="Views\Induction\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
